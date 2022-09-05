@@ -22,6 +22,7 @@ flex-direction: column;
 align-items: center;
 }
 
+/* Estilo aplicado para todas as imagens */
 .image-banner {
 position: absolute;
 width: 300px;
@@ -29,6 +30,7 @@ height: 300px;
 left: 40px;
 top: 34px;
 }
+
 
 h2 {
     align-items: center;
@@ -76,12 +78,13 @@ p {
     text-decoration: none;
     text-align: center;
 }
-
+/* Links continue/skip */
 .links-action {
     display: flex;
     flex-flow: column;
 }
 
+/* Links do Skip */
 .links-action a:nth-child(2) {
     margin-top:30px;
 }
@@ -94,6 +97,7 @@ p {
     text-decoration: none;
 }
 
+/* Botão de slide */
 .slide-page a i {
     font-size: 10px;
 }
