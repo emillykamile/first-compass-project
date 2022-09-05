@@ -1,7 +1,7 @@
 # Compass 'Onboarding' Project
 
 # 🚀 Começando
-Esse projeto foi desenvolvido o desafio da primeira Sprint da turma de Front-end da Compass, totalmente em HTML e CSS.
+Esse projeto foi desenvolvido para o desafio da primeira Sprint da turma de Front-end da Compass, totalmente em HTML e CSS.
 
 # 📋 Pré-requisitos
 - 100% Responsivo
