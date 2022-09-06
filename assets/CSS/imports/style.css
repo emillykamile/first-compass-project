@@ -24,11 +24,11 @@ align-items: center;
 
 /* Estilo aplicado para todas as imagens */
 .image-banner {
-position: absolute;
-width: 300px;
-height: 300px;
-left: 40px;
-top: 34px;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    left: 40px;
+    top: 34px;
 }
 
 
@@ -37,7 +37,6 @@ h2 {
     font-size: 24px;
     left: 50px;
     top: 341px;
-    display: flex;
     justify-content: center;
 }
 
@@ -48,7 +47,6 @@ p {
     height: 46px;
     left: 37px;
     top: 398px;
-    display:  flex;
 }
 
 .button-continue {
